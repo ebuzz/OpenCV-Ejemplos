@@ -1,4 +1,4 @@
-##Ejemplos de OpenCV
+#Ejemplos de OpenCV
 
 Aqui estan todos los ejemplos vistos en el video y otros mas.
 
@@ -7,8 +7,11 @@ Creditos totales a:
   * http://docs.opencv.org/
   * https://help.ubuntu.com/community/OpenCV
   * http://www.raben.com/book/export/html/3
+  
+  
+##Instalacion OpenCV Linux
 
-#Opcion 1 - 
+###Opcion 1 - 
 
 To install OpenCV 2.4.2 or 2.4.3 on the Ubuntu 12.04 operating system, first install a developer environment to build OpenCV.
 
@@ -76,7 +79,7 @@ And finally install OpenCV
 
     sudo make install
     
-#Opcion 2- Ejecutar el archivo.sh(copiar y pegar)
+###Opcion 2- Ejecutar el archivo.sh(copiar y pegar)
 
     version="$(wget -q -O - http://sourceforge.net/projects/opencvlibrary/files/opencv-unix | egrep -m1 -o '\"[0-9](\.[0-9])+' | cut -c2-)"
     echo "Installing OpenCV" $version
