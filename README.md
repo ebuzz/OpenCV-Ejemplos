@@ -1,6 +1,7 @@
 #Ejemplos de OpenCV
 
-Aqui estan todos los ejemplos vistos en el video y otros mas.
+Aqui estan todos los ejemplos vistos en el
+[video](http://www.youtube.com/watch?v=xH-vDGo0Rzg) y otros mas.
 
 Creditos totales a:
 
